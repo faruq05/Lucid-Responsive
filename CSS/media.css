@@ -1,0 +1,439 @@
+@media(max-width:1199px) {
+    .hero_image {
+        right: -7%;
+        width: 60%;
+    }
+
+    .btn-theme-features {
+        margin: 0px;
+        margin-right: 10px;
+    }
+}
+
+
+@media(max-width:991px) {
+
+    /* header */
+    .hero_image {
+        bottom: 0px;
+        right: -8%;
+        width: 60%;
+    }
+
+    .banner_text h1 {
+        font-size: 49px;
+    }
+
+    .btn-download {
+        margin-right: 0px;
+    }
+
+    /* feature list */
+    .feature_list h4 {
+        font-size: 22px;
+    }
+
+    .feature_list p {
+        margin: 0px;
+        font-size: 15px;
+    }
+
+    /* theme download */
+    .btn-theme-features {
+        margin: 0px;
+        padding: 10px 20px;
+        font-size: 15px;
+        margin-left: -40px;
+        margin-right: 5px;
+    }
+
+    /* price chart */
+    .btn-order {
+        padding: 8px 15px;
+
+    }
+
+    .price_chart p {
+        padding: 10px 0px;
+    }
+
+    /* contact form */
+    .contact {
+        padding: 80px 0px 330px 0px;
+    }
+
+    .contact_form {
+        width: 85%;
+    }
+
+}
+
+
+@media(max-width:767px) {
+
+
+    .hero_image {
+        display: none;
+    }
+
+    .banner_image_phone {
+        display: inherit;
+        width: 100%;
+        width: 70%;
+        margin: auto;
+    }
+
+    .banner_text h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .banner_text h4 {
+        text-align: center;
+    }
+
+    .banner_text p {
+        text-align: justify;
+    }
+
+    .btn-download {
+        padding: 10px 30px;
+        font-size: 16px;
+        margin-right: 0px;
+    }
+
+    .btn-features {
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+
+    .banner_buttons {
+        justify-content: space-evenly;
+        display: flex;
+    }
+
+    /* theme download */
+    .theme {
+        padding: 30px 0px;
+    }
+
+    .theme h1 {
+        text-align: center;
+    }
+
+    .btn-theme-features {
+
+        padding: 12px 15px;
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .btn-theme-download {
+        padding: 12px 15px;
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .theme_button {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 15px;
+    }
+
+    /* pricing */
+    .pricing {
+        padding: 100px 55px;
+    }
+
+    .price_chart {
+        margin-bottom: 20px;
+    }
+
+    /* form */
+    .contact_form {
+
+        padding: 25px;
+        bottom: -233px;
+        width: 80%;
+    }
+
+    .contact_form form input {
+        padding: 10px;
+    }
+
+    .contact_list p {
+        font-size: 15px;
+    }
+
+    .contact_form form textarea {
+        padding: 8px 0px 0px 8px;
+
+    }
+
+    .contact {
+        padding: 80px 0px 300px 0px;
+    }
+
+
+}
+
+
+@media(max-width:575px) {
+
+    /* header */
+    .navbar-brand img {
+
+        width: 90%;
+
+    }
+
+    .nav-item {
+        padding: 10px 0px 10px 0px;
+        text-align: center;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        display: inline-block;
+    }
+
+
+    .banner_content {
+        margin-top: -25px;
+    }
+
+    .banner_text h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .banner_text h4 {
+        text-align: center;
+    }
+
+    .banner_text p {
+        text-align: justify;
+    }
+
+    .btn-download {
+        padding: 10px 15px;
+        font-size: 15px;
+        margin-right: 0px;
+    }
+
+    .btn-features {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+
+    .banner_buttons {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+
+    .hero_image {
+        display: none;
+    }
+
+    .banner_image_phone {
+        display: inherit;
+        width: 100%;
+        width: 70%;
+        margin: auto;
+    }
+
+
+    /* product */
+    .product_content h4 {
+        font-size: 14px;
+
+    }
+
+    .product_content h1 {
+        font-size: 24px;
+    }
+
+
+    /* feature list */
+    .feature_list h4 {
+        font-size: 22px;
+    }
+
+    .feature_list p {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+
+
+    /* details content */
+    .details_content h4 {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .details_content h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .details_content span {
+        text-align: center;
+        margin: auto;
+    }
+
+    .details_content p {
+        font-size: 15px;
+        margin: 30px 0px;
+    }
+
+    .pro_icon {
+        width: 70px;
+        height: 70px;
+        line-height: 70px;
+        font-size: 25px;
+    }
+
+
+
+    /* customize texts */
+    .customize_texts {
+        margin-top: 25px;
+    }
+
+    .customize_texts h4 {
+        font-size: 15px;
+        text-align: center;
+    }
+
+    .customize_texts h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .customize_texts span {
+        margin: auto;
+    }
+
+
+    .customize_texts p {
+        font-size: 15px;
+        margin: 30px 0px;
+    }
+
+
+
+    /* revirew */
+    .review {
+        padding: 50px 0px;
+    }
+
+    .rev_content h4 {
+        font-size: 15px;
+    }
+
+    .rev_content h1 {
+        font-size: 20px;
+    }
+
+
+
+    /* carousal */
+    .carousal {
+        padding: 35px 5px;
+    }
+
+
+
+    /* theme download */
+    .theme {
+        padding: 30px 0px;
+    }
+
+    .theme h1 {
+        font-size: 22px;
+        text-align: center;
+    }
+
+    .btn-theme-features {
+
+        padding: 12px 15px;
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .btn-theme-download {
+        padding: 12px 15px;
+        margin-left: 0px;
+        font-size: 15px;
+    }
+
+    .theme_button {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 15px;
+    }
+
+
+
+    /* pricing */
+    .pricing {
+        padding: 50px 20px;
+    }
+
+    .pricing_content h4 {
+        font-size: 15px;
+    }
+
+    .pricing_content h1 {
+        font-size: 20px;
+    }
+
+    .price_chart {
+        margin-bottom: 20px;
+    }
+
+
+
+    /* contact sec */
+    .contact {
+        padding: 40px 0px 400px 0px;
+    }
+
+    .contact_content h4 {
+        font-size: 15px;
+    }
+
+    .contact_content h1 {
+        font-size: 20px;
+    }
+
+    .con_icon {
+        margin-top: 30px;
+    }
+
+
+
+    /* form */
+    .contact_form {
+        padding: 25px;
+        width: 85%;
+        bottom: -160px;
+    }
+
+    .contact_form form input {
+        padding: 10px;
+    }
+
+
+    .contact_form form textarea {
+        padding: 10px 0px 0px 10px;
+
+    }
+
+
+
+    /* footer */
+    .footer_content ul li {
+        margin-left: 20px;
+    }
+}
